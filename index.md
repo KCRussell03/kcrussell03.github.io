@@ -4,9 +4,7 @@ Please go to the following URL to see project plans.
 
 [ProjectPlan](https://www.youtube.com/watch?v=ISxzL4y6zcE&feature=youtu.be)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Upgraded Code
 
 ```markdown
 Syntax highlighted code block
@@ -344,9 +342,9 @@ class loginDB extends SQLiteOpenHelper {
 
 
 ### Narratives 
-*LoginDB*
+*LoginDB*<br/>
 For the loginDB I wanted to create a database that would accept usernames and passwords, retrieve just usernames, and check user permissions from the loginActivity.java class. I created this class at the beginning of the project because it was my struggling point in the course I had orignally created the code for. The loginDB would crash each time a user tried to login, so creating a functioning database was the main objective. Through this process I learned a lot about the CRUD operations of SQLite databases. I had a difficult time at fist getting the verifyLoginInfo() method to work. I learned that by creating a query and whereArgs that I could use the included rawQuery() method to pass an argument that would search the database. Perfecting that argument took some time. SQLite can be very picky and there were times that the application crashed because the code was written as " =?" opposed to " = ?". Learning more about WHERE, AND, OR and other SQL operations has really helped my coding performance. I am happy to say this code worked perfectly on the create_account.java class and LoginActivity.java class. It was able to send toast messsages back giving user updates, match usernames to passwords, and direct user to MainActivity.java class if login information was correct. 
 
-### 
+### Proffesional Assesment 
 
 
