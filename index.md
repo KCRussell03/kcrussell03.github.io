@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # MainActivity.java
-import androidx.annotation.Nullable;
+'import androidx.annotation.Nullable;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -147,7 +147,7 @@ public class MainActivity extends AppCompatActivity {
         });
         builder.create().show();
     }
-}
+}'
   
   
 ## loginDB.java
