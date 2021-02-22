@@ -2,7 +2,7 @@
 
 Please go to the following URL to see project plans. 
 
-[Link] (https://youtu.be/ISxzL4y6zcE)
+[Link](https://www.youtube.com/watch?v=ISxzL4y6zcE&feature=youtu.be)
 
 ### Markdown
 
