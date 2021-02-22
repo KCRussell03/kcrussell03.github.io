@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my CS499 Capstone 
 
-You can use the [editor on GitHub](https://github.com/KCRussell03/kcrussell03.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Please go to the following URL to see project plans. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Link] (https://youtu.be/ISxzL4y6zcE)
 
 ### Markdown
 
